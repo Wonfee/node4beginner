@@ -1,0 +1,12 @@
+formidable
+======================================================
+download to local path:
+npm install formidable
+
+var form = require("./node_modules/formidable");
+
+=====================================================
+install to system path:
+sudo npm install -g formidable
+
+var form = require("formidable");
